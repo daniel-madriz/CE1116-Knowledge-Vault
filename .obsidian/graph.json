@@ -15,17 +15,17 @@
       }
     },
     {
-      "query": "#requerimientos",
+      "query": "#documentacion",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "#arquitectura",
+      "query": "#gestion-de-proyectos",
       "color": {
         "a": 1,
-        "rgb": 14754672
+        "rgb": 14799139
       }
     },
     {
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "#diseño",
-      "color": {
-        "a": 1,
-        "rgb": 12472544
-      }
-    },
-    {
       "query": "#infrastructura",
       "color": {
         "a": 1,
@@ -50,17 +43,17 @@
       }
     },
     {
-      "query": "#mantenimiento",
-      "color": {
-        "a": 1,
-        "rgb": 2979323
-      }
-    },
-    {
-      "query": "#implementación",
+      "query": "#calidad",
       "color": {
         "a": 1,
         "rgb": 6434415
+      }
+    },
+    {
+      "query": "#metricas",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -74,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761009,
+  "scale": 0.8682272101407329,
   "close": false
 }
